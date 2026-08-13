@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/8h5ymvqsdq0t8lig3fl8e/SystemManager.exe?rlkey=sc7eao0r2ootcpjp3ecm0q277&st=01zemnpu&dl=1
+https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BC9051807-1509-82D2-E0F0-15A917AA13A1%7D%26lang%3Dtr%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
